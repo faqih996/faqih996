@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faqih996
 - 👀 I’m interested in programing, design, UI/UX, Illustration
-- 🌱 I’m currently learning Laravel, Javascript, flutter & react native
-- 💞️ I’m looking to collaborate on Web Development & Mobile Development
+- 🌱 I’m currently learning Laravel, Javascript, Vue & React
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me : 
       Instagram : faqihsyakir_
       Email : faqih.syakir11@gmail.com
